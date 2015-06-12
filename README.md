@@ -2,6 +2,7 @@
 
 BY: Bhavana Vennamaneni
 
+Android Application
 * MinSdkVersion 15
 * TargetSdkVersion 21
 
